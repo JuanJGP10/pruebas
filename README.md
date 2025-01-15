@@ -16,4 +16,4 @@ Una breve descripción del proyecto, explicando qué hace y por qué es útil.
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/nombre-del-proyecto.git
+   git clone https://github.com/usuario/pruebas.git
